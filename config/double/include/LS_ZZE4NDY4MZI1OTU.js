@@ -1,0 +1,8 @@
+const LS_ZZE4NDY4MZI1OTU = () => {
+    return {
+        ONE_MINUTE_TO_SECOND: 60,
+        SECOND_TO_MINI_SECOND: 1000
+    }
+}
+
+module.exports.LS_ZZE4NDY4MZI1OTU = LS_ZZE4NDY4MZI1OTU
